@@ -17,7 +17,7 @@ Party size: number of people in the party, integers larger than 0
 ## Handling exceptions
 If the user fails to input properly, such as invalid or empty values, an error message will show using a Toast.
 
-![Figure1 Demo](https://github.gatech.edu/gt-omscs-se-2016fall/6300Fall16lxu321/blob/master/Assignment4/demo.jpg) 
+![Figure1 Demo](https://github.com/lixu0818/TipCalculator/blob/master/demo.jpg) 
 
 
 
